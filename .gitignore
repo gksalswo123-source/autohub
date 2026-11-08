@@ -1,0 +1,14 @@
+# 파이썬
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# 비밀 정보 (절대 GitHub에 올리지 않기!)
+.env
+
+# 실행 결과물
+output/
+data/
